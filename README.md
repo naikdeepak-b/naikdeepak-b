@@ -1,10 +1,6 @@
-# Hi 👋, I'm Deepak 
+# Hi 👋 there ! I'm Deepak,
 
 <h3 align="center">🌐 Network Engineer | ☁️ AWS Certified Cloud Practitioner | CCNA Certified</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Network+Engineer;AWS+Cloud+Practitioner;CCNA+Certified;Learning+Cloud+%26+Automation" />
-</p>
 
 ---
 
