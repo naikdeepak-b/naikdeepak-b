@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Deepak**
 
-<h3 align="center">🌐 Network Engineer | ☁️ AWS Certified Cloud Practitioner | 🎯 CCNA Certified</h3>
+<h3 align="center">🌐 Network Engineer | ☁️ AWS Certified Cloud Practitioner | 🎯 CCNA Certified | 🎯 Open to work</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Network+Engineer;CCNA+Certified;AWS+Cloud+Practitioner;Learning+Cloud+%26+Automation" />
@@ -44,41 +44,22 @@
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
 </p>
 
-- Routing & Switching
-- VLAN
-- Inter-VLAN Routing
-- STP
-- EtherChannel
-- OSPF
-- EIGRP
-- BGP (Basics)
-- ACL
-- NAT
-- DHCP
-- IPv6
-- GRE Tunnel
-- HSRP
+- Routing & Switching - VLAN - Inter-VLAN Routing - STP
+- EtherChannel - OSPF - EIGRP - BGP (Basics) - ACL
+- NAT - DHCP - IPv6 - GRE Tunnel - HSRP
 
 ---
 
 ## ☁️ AWS
 
-- IAM
-- EC2
-- VPC
-- S3
-- Route 53
-- CloudWatch
-- Auto Scaling
-- Elastic Load Balancer
+- IAM - EC2 - VPC - S3 - Route 53
+- CloudWatch - Auto Scaling - Elastic Load Balancer
 
 ---
 
 ## 🛠️ Tools
 
-- Cisco Packet Tracer
-- Gns3
-- Draw.io
+- Cisco Packet Tracer - Gns3 - Draw.io
 
 ---
 
@@ -87,15 +68,10 @@
 ### 🏢 Enterprise Network Infrastructure
 
 ✔ VLAN
-
 ✔ Inter-VLAN Routing
-
 ✔ OSPF
-
 ✔ HSRP
-
 ✔ ACL
-
 ✔ NAT
 
 🔗 https://github.com/yourusername/enterprise-network
@@ -120,13 +96,9 @@
 
 ### 🌍 Branch Office Connectivity
 
-✔ GRE Tunnel
+✔ GRE Tunnel ✔ OSPF
 
-✔ OSPF
-
-✔ DHCP
-
-✔ IPv6
+✔ DHCP ✔ IPv6
 
 🔗 https://github.com/yourusername/gre-tunnel
 
@@ -153,9 +125,7 @@
 
 - AWS Solutions Architect Associate
 - Python for Network Automation
-- Terraform
-- Docker
-- Kubernetes
+- Terraform - Docker - Kubernetes
 
 ---
 
